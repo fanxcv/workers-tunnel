@@ -10,6 +10,6 @@ enabled = true
 head_sampling_rate = 1
 
 [vars]
-BASE_URL = "/"
-USER_ID = "c55ba35f-12f6-436e-a451-4ce982c4ec1c"
+BASE_URL = "/ws"
+USER_ID = "fe29f3bf-b389-4294-8b4b-1f19632ff610"
 PROXY_IP = ""
